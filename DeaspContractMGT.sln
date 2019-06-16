@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeaspContractMGT", "DeaspContractMGT\DeaspContractMGT.csproj", "{FEAE41AB-FCE9-4679-9ED0-218278FC148C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeaspContractMGT.Tests", "DeaspContractMGT.Tests\DeaspContractMGT.Tests.csproj", "{0CF81A0F-2424-4C73-9AE2-15AC1BB6FB59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEAE41AB-FCE9-4679-9ED0-218278FC148C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAE41AB-FCE9-4679-9ED0-218278FC148C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAE41AB-FCE9-4679-9ED0-218278FC148C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAE41AB-FCE9-4679-9ED0-218278FC148C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF81A0F-2424-4C73-9AE2-15AC1BB6FB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF81A0F-2424-4C73-9AE2-15AC1BB6FB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF81A0F-2424-4C73-9AE2-15AC1BB6FB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF81A0F-2424-4C73-9AE2-15AC1BB6FB59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3849990C-F554-4616-9BF2-4C75214BC117}
+	EndGlobalSection
+EndGlobal
